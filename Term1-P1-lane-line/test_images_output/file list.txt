@@ -1,0 +1,6 @@
+['solidWhiteCurve.jpg',
+ 'solidWhiteRight.jpg',
+ 'solidYellowCurve.jpg',
+ 'solidYellowCurve2.jpg',
+ 'solidYellowLeft.jpg',
+ 'whiteCarLaneSwitch.jpg']
