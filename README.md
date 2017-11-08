@@ -6,7 +6,7 @@ The Self-Driving Car Nanodegree Program is an online certification education int
 
 ## Program Outline:
 
-- Term 1: Deep Learning and Computer Vision
+- **Term 1: Deep Learning and Computer Vision**
 
 1. Computer Vision
 
