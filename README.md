@@ -1,8 +1,8 @@
-# Udacity Self-Driving Car Nanodegree project files.
+# Udacity Self-Driving Car Nanodegree project.
 
 This repository contains project files for Udacity Self-Driving Car Nanodegree program (start from 11/02/2017).
 
-The Self-Driving Car Nanodegree Program is an online certification education intended to prepare students to become self-driving car engineers. The program was developed by Udacity in partnership with Mercedes-Benz, NVIDIA, Otto, DiDi, BMW, McLaren and NextEv.
+This program is an online education class intended to prepare people to become self-driving car engineers. The program was developed by Udacity in partnership with Mercedes-Benz, NVIDIA, Otto, DiDi, BMW, McLaren and NextEv.
 
 ## Program Outline:
 
@@ -10,4 +10,4 @@ The Self-Driving Car Nanodegree Program is an online certification education int
 
 1. Computer Vision
 
-    - Project 1: Finding Lane Lines
+    - Project 1: Finding Lane Lines (due 11/09/2017)
