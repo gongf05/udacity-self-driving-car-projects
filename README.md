@@ -1,4 +1,4 @@
-# Udacity's Self-Driving Car Nanodegree project files and notes.
+# Udacity Self-Driving Car Nanodegree project files.
 
 This repository contains project files for Udacity Self-Driving Car Nanodegree program (start from 11/02/2017).
 
