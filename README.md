@@ -11,3 +11,6 @@ This program is an online education class intended to prepare people to become s
 1. Computer Vision
 
     - Project 1: Finding Lane Lines (due 11/09/2017)
+    
+2.  Deep Learning
+    - Lab 1: use TensorFlow to build one layer NN (11/23/2017)
