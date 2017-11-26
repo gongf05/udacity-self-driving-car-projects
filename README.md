@@ -1,4 +1,4 @@
-# Udacity Self-Driving Car Nanodegree project.
+#Udacity Self-Driving Car Nanodegree project.
 
 This repository contains project files for Udacity Self-Driving Car Nanodegree program (start from 11/02/2017).
 
@@ -14,3 +14,4 @@ This program is an online education class intended to prepare people to become s
     
 2.  Deep Learning
     - Lab 1: use TensorFlow to build single-layer NN (11/23/2017)
+    - Project 2: Traffic Sign Classifier (11/26/2017)
